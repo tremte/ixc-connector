@@ -1,0 +1,9 @@
+{
+  "keys": [
+    { "name": "infra", "profile": "infraestrutura", "key": "troque-esta-chave-infra" },
+    { "name": "financeiro", "profile": "financeiro", "key": "troque-esta-chave-financeiro" },
+    { "name": "vendas", "profile": "vendas", "key": "troque-esta-chave-vendas" },
+    { "name": "juridico", "profile": "juridico", "key": "troque-esta-chave-juridico" },
+    { "name": "admin", "profile": "admin", "key": "troque-esta-chave-admin" }
+  ]
+}
